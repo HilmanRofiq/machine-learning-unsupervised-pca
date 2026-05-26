@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "e4f92f455bbc7e68",
+    "type": "split",
+    "children": [
+      {
+        "id": "39be0fc4b53a934b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b2336d75c977e26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ab94779f79997bf0",
+    "type": "split",
+    "children": [
+      {
+        "id": "a28036ed04f19bc8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5f93cfc3dfa965b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "51456d02b1ce77a5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "adfd4d79e093dd93",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "449daf68448a4143",
+    "type": "split",
+    "children": [
+      {
+        "id": "318ae32d389d1748",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a5d55d22823b119",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for README"
+            }
+          },
+          {
+            "id": "9663a3c1728591c4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from README"
+            }
+          },
+          {
+            "id": "17b6641891c784e4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1c9d5fbe5f226501",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "c345910304666b1e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "4b2336d75c977e26",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "README.md",
+    "asset/Readme/obsidian-icon.png",
+    "documentation/references/1.Principal component analysis.pdf",
+    "documentation/references/Artikel and Tutorial links.md",
+    "documentation/references/2.ATutorial on Principal Component Analysis.pdf",
+    "Pasted image 20260526160449.png",
+    "Pasted image 20260526160452.png",
+    "Pasted image 20260526160520.png",
+    "documentation/references",
+    "documentation/New folder",
+    "documentation/Principalcomponentanalysis.pdf",
+    "Principalcomponentanalysis.pdf",
+    "asset/Readme",
+    "Materi PCA/Pemahaman Dasar.md",
+    "asset",
+    "documentation",
+    "presentation"
+  ]
+}
