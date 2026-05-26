@@ -2,6 +2,7 @@ This repo is created for documentation of me trying to learn Machine Learning, s
 
 This Repo is also Obsidian vault. It's helping you to learn PCA for beginner like me:)
 <img src="asset/Readme/obsidian-icon.png" alt="Obsidian Logo" width="76">
+
 so My topic is:
 # High-Dimensional Data Visualization Using Principal Component Analysis (PCA)
 I bring this topic because it's a task from IMV laboratory. I'm on recruitment of this lab.
