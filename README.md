@@ -1,6 +1,7 @@
 This repo is created for documentation of me trying to learn Machine Learning, specifically PCA. One of the most important for data analyst or just wanna learn about machine learning.
 
 This Repo is also Obsidian vault. It's helping you to learn PCA for beginner like me:)
+
 <img src="asset/Readme/obsidian-icon.png" alt="Obsidian Logo" width="76">
 
 so My topic is:
