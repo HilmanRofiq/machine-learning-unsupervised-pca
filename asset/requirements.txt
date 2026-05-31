@@ -1,0 +1,31 @@
+# ============================================================
+#  requirements.txt — PCA IMV Notebook
+#  Python yang direkomendasikan : 3.10.x atau 3.11.x
+#
+#  Cara install:
+#    pip install -r requirements.txt
+#
+#  Atau dengan conda:
+#    conda create -n pca-imv python=3.11
+#    conda activate pca-imv
+#    pip install -r requirements.txt
+# ============================================================
+
+# ── Jupyter Environment ──────────────────────────────────────
+jupyterlab>=4.4.0
+ipykernel>=6.29.0
+nbformat>=5.10.0
+
+# ── Core Data ────────────────────────────────────────────────
+numpy>=1.26.0
+pandas>=2.2.0
+
+# ── Machine Learning ─────────────────────────────────────────
+scikit-learn>=1.4.0
+
+# ── Static Visualization ─────────────────────────────────────
+matplotlib>=3.8.0
+seaborn>=0.13.0
+
+# ── Interactive Visualization ─────────────────────────────────
+plotly>=5.20.0
